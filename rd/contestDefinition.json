@@ -1,0 +1,17 @@
+{
+	"version": "1.0.0",
+	"name": "RD Contest",
+	"sponsor": "WIA",
+	"description": "Rememberence Day Contest",
+	"loggers": [
+		{
+			"name": "N1MM+",
+			"version": "1.0.0",
+			"udc": "rd/n1mm+/VK_RD_RTTY.UDC"
+		}
+	],
+	"resources":{
+		"call-history": "rd/callHistory.txt",
+		"city.dat": "rd/city.dat"
+	}
+}
